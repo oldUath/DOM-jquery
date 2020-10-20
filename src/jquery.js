@@ -63,10 +63,6 @@ window.jQuery = function (selectorOrArray) {
       return jQuery(array)
     },
 
-
-
-
-
   }
 
 }
